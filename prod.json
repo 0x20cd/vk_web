@@ -1,0 +1,19 @@
+[
+	{
+		 "name" : "Игрушка Сеня",
+		"price" : 110,
+		  "img" : "img/senya.jpg",
+	},
+
+	{
+		 "name" : "Игрушка Пинг",
+		"price" : 110,
+		  "img" : "img/ping.jpg"
+	},
+	
+	{
+		 "name" : "Игрушка Персик",
+		"price" : 85,
+		  "img" : "img/persik.jpg"
+	}
+]
